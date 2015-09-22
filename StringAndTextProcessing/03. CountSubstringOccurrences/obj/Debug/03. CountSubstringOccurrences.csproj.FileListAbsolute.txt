@@ -1,0 +1,4 @@
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\03. CountSubstringOccurrences\bin\Debug\_03.CountSubstringOccurrences.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\03. CountSubstringOccurrences\bin\Debug\_03.CountSubstringOccurrences.pdb
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\03. CountSubstringOccurrences\obj\Debug\_03.CountSubstringOccurrences.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\03. CountSubstringOccurrences\obj\Debug\_03.CountSubstringOccurrences.pdb
