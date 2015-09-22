@@ -1,5 +1,0 @@
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\05. UnicodeCharacters\obj\Debug\05. UnicodeCharacters.csprojResolveAssemblyReference.cache
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.pdb

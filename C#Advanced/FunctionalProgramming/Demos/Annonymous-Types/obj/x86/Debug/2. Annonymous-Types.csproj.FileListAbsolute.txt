@@ -1,5 +1,0 @@
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Annonymous-Types\bin\Debug\Annonymous-Types.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Annonymous-Types\bin\Debug\Annonymous-Types.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Annonymous-Types\obj\x86\Debug\2. Annonymous-Types.csprojResolveAssemblyReference.cache
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.pdb

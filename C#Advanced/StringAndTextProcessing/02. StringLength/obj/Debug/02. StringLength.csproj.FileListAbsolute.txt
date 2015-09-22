@@ -1,5 +1,0 @@
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\02. StringLength\bin\Debug\_02.StringLength.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\02. StringLength\bin\Debug\_02.StringLength.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\02. StringLength\obj\Debug\_02.StringLength.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\02. StringLength\obj\Debug\_02.StringLength.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\02. StringLength\obj\Debug\02. StringLength.csprojResolveAssemblyReference.cache

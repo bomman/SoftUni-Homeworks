@@ -1,4 +1,0 @@
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\TextFilter\bin\Debug\TextFilter.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\TextFilter\bin\Debug\TextFilter.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\TextFilter\obj\Debug\TextFilter.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\StringAndTextProcessing\TextFilter\obj\Debug\TextFilter.pdb

@@ -1,6 +1,0 @@
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Action-And-Func\bin\Debug\Action-And-Func.exe.config
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Action-And-Func\bin\Debug\Action-And-Func.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Action-And-Func\bin\Debug\Action-And-Func.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Action-And-Func\obj\Debug\4. Action-And-Func.csprojResolveAssemblyReference.cache
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Action-And-Func\obj\Debug\Action-And-Func.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Action-And-Func\obj\Debug\Action-And-Func.pdb
