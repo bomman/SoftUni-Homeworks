@@ -1,0 +1,4 @@
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Exercise\bin\Debug\Exercise.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Exercise\obj\Debug\Exercise.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\Demos\Exercise\obj\Debug\Exercise.pdb

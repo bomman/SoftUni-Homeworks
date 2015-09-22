@@ -1,0 +1,5 @@
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\FunctionalProgramming\01. StudentClass\obj\Debug\01. StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\FunctionalProgramming\01. StudentClass\bin\Debug\_01.StudentClass.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\FunctionalProgramming\01. StudentClass\bin\Debug\_01.StudentClass.pdb
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\FunctionalProgramming\01. StudentClass\obj\Debug\_01.StudentClass.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\C#Advanced\FunctionalProgramming\FunctionalProgramming\01. StudentClass\obj\Debug\_01.StudentClass.pdb
