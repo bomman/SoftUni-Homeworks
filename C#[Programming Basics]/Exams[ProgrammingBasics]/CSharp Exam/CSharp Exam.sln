@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coordinate System", "Coordination System\Coordinate System.csproj", "{93AF53EF-78B3-4732-ACF4-4E8210F32873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tribonacci", "Tribonacci\Tribonacci.csproj", "{97C3B1D2-D37F-4981-ADF6-7F0C02D37276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandGlass", "SandGlass\SandGlass.csproj", "{7F3E2AB6-7424-46DA-B4C9-2888799FCC31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93AF53EF-78B3-4732-ACF4-4E8210F32873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AF53EF-78B3-4732-ACF4-4E8210F32873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AF53EF-78B3-4732-ACF4-4E8210F32873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AF53EF-78B3-4732-ACF4-4E8210F32873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C3B1D2-D37F-4981-ADF6-7F0C02D37276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C3B1D2-D37F-4981-ADF6-7F0C02D37276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C3B1D2-D37F-4981-ADF6-7F0C02D37276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C3B1D2-D37F-4981-ADF6-7F0C02D37276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3E2AB6-7424-46DA-B4C9-2888799FCC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3E2AB6-7424-46DA-B4C9-2888799FCC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3E2AB6-7424-46DA-B4C9-2888799FCC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3E2AB6-7424-46DA-B4C9-2888799FCC31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

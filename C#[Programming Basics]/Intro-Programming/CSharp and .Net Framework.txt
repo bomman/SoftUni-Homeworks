@@ -1,0 +1,1 @@
+.NET Framework - It is a platform created by Microsoft that submit a library of classes and programming models. This Framework is important part in Microsoft strategy and it is from a high-class languages like C#. So C# is using .Net Framework's libraries for its coding.

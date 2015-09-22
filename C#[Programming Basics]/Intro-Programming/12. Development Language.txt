@@ -1,0 +1,5 @@
+Visual Studio - This IDE is mostly used by corporate programmers to produce .NET code. It has intellisense which makes the work of the user a lot easier. There are many plugins for it. 
+
+Eclipse - It has cleaner interface and it is a good alternative of Visual Studio. It is free to use. 
+
+Netbeans - this is also a good alternative but it throws a lot of errors and user must be very accurate in his code. 

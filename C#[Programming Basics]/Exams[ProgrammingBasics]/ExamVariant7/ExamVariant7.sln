@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompoundInterest", "CompoundInterest\CompoundInterest.csproj", "{64AF7B6E-67C4-482F-9A57-EA1F20CE45AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetarsGame", "PetarsGame\PetarsGame.csproj", "{91619391-A8AD-45CD-99E0-1FAB8C625949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunlight", "Sunlight\Sunlight.csproj", "{5334A526-A0D3-4AD6-9857-E0F23D17179B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptMesseges", "EncryptMesseges\EncryptMesseges.csproj", "{7BD03D92-ABB2-4005-B016-34E6FFFA25E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64AF7B6E-67C4-482F-9A57-EA1F20CE45AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AF7B6E-67C4-482F-9A57-EA1F20CE45AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AF7B6E-67C4-482F-9A57-EA1F20CE45AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AF7B6E-67C4-482F-9A57-EA1F20CE45AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91619391-A8AD-45CD-99E0-1FAB8C625949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91619391-A8AD-45CD-99E0-1FAB8C625949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91619391-A8AD-45CD-99E0-1FAB8C625949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91619391-A8AD-45CD-99E0-1FAB8C625949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5334A526-A0D3-4AD6-9857-E0F23D17179B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5334A526-A0D3-4AD6-9857-E0F23D17179B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5334A526-A0D3-4AD6-9857-E0F23D17179B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5334A526-A0D3-4AD6-9857-E0F23D17179B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD03D92-ABB2-4005-B016-34E6FFFA25E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD03D92-ABB2-4005-B016-34E6FFFA25E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD03D92-ABB2-4005-B016-34E6FFFA25E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD03D92-ABB2-4005-B016-34E6FFFA25E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

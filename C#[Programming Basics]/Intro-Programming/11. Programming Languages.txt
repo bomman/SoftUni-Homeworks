@@ -1,0 +1,9 @@
+Java script - Javascript is a programming language most commonly used in web for client-side scripts to interact with client. It is used in most of the browsers without a plugin, while C# needs a plugin. Javascript is also used in server-side with Node.js, game programming, desktop and console applications. 
+
+Java - it is used for client-server web applications. It specifically created to have as few implementation dependencies as it can and this makes the Java applications very mobile. It derives a lot of its syntaxis from C and C++. 
+
+C++ - It is designed with a bias toward system programming. It is also found useful for desktop applications, servers, entertainment software and other. C# builds on the syntax and semantics of C++, allowing C programmers to take advantage of .NET and the common language runtime.
+
+C - is general-purpouse programming language from medium level. With the developers have more control over the hardware and the programs written in "C" runs faster than others. That is why it is used for writing an operating system.
+
+Php - it is a server-side scripting language, widely used for web applications.  
