@@ -1,0 +1,5 @@
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\bin\Debug\StructVsClass.exe.config
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\bin\Debug\StructVsClass.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\bin\Debug\StructVsClass.pdb
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\obj\Debug\StructVsClass.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\obj\Debug\StructVsClass.pdb

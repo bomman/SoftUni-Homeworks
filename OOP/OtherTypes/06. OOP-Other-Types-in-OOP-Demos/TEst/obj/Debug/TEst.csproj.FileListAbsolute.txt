@@ -1,0 +1,6 @@
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\TEst\bin\Debug\TEst.exe.config
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\TEst\bin\Debug\TEst.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\TEst\bin\Debug\TEst.pdb
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\TEst\obj\Debug\TEst.csprojResolveAssemblyReference.cache
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\TEst\obj\Debug\TEst.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\OtherTypes\06. OOP-Other-Types-in-OOP-Demos\TEst\obj\Debug\TEst.pdb

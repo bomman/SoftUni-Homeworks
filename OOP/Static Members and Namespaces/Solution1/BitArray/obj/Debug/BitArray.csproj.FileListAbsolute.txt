@@ -1,0 +1,5 @@
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\BitArray\bin\Debug\BitArray.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\BitArray\bin\Debug\BitArray.pdb
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\BitArray\obj\Debug\BitArray.exe
+C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\BitArray\obj\Debug\BitArray.pdb

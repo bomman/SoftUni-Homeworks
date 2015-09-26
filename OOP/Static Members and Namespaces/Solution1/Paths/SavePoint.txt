@@ -1,0 +1,16 @@
+Point coordinates:
+X: 3
+Y: 5
+Z: 7
+Point coordinates:
+X: 1
+Y: 4
+Z: 2
+Point coordinates:
+X: 1
+Y: 2
+Z: 3
+Point coordinates:
+X: 2
+Y: 3
+Z: 1
