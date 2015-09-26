@@ -1,7 +1,7 @@
-﻿using System;
+﻿////Write a program that reads a keyword and some text from the console and prints all sentences from the text, containing that word. A sentence is any sequence of words ending with '.', '!' or '?'. Examples:
+
+using System;
 using System.Text.RegularExpressions;
-
-
 class SentenceExtractor
 {
     static void Main()
