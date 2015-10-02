@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.IO;
 
-class DirectoryTraversal
-{   
+class FullDirectoryTraversal
+{
     static void Main()
     {
         string searchedDirectory = Console.ReadLine();
         SortedDictionary<string, Dictionary<string, double>> extensions = new SortedDictionary<string, Dictionary<string, double>>();
         DirectoryInfo directorySelected = new DirectoryInfo(searchedDirectory);
-        FilesExtensions(directorySelected, extensions);
+        DirectoriesTraversal(directorySelected, extensions);
         StreamWriter writer = new StreamWriter("../../extensions.txt");
         using (writer)
         {
@@ -39,26 +39,42 @@ class DirectoryTraversal
         }
     }
 
-    private static void FilesExtensions(DirectoryInfo directorySelected, SortedDictionary<string, Dictionary<string, double>> extensions)
+    private static void DirectoriesTraversal(DirectoryInfo directorySelected, SortedDictionary<string, Dictionary<string, double>> extensions)
     {
+        DirectoryInfo[] subDirectories = directorySelected.GetDirectories();    
+        int subDirectoriesUsed = subDirectories.Length;
+
         foreach (var file in directorySelected.GetFiles())
-        {
-            if (!extensions.ContainsKey(file.Extension))
+        {                  
+            FileExtensionSorting(file, extensions);           
+            while (subDirectoriesUsed > 0)
             {
-                extensions.Add(file.Extension,
-                    new Dictionary<string, double>
+                foreach (var subDirectory in directorySelected.GetDirectories())
+                {                                        
+                        DirectoriesTraversal(subDirectory, extensions);
+                    subDirectoriesUsed--;
+                }
+            }
+
+        }
+    }
+
+    private static void FileExtensionSorting(FileInfo file, SortedDictionary<string, Dictionary<string, double>> extensions)
+    {
+        if (!extensions.ContainsKey(file.Extension))
+        {
+            extensions.Add(file.Extension,
+                new Dictionary<string, double>
                     {
                        {string.Format("--{0} - ", file.Name), file.Length}
                     }
-                );
-            }
-            else
-            {
-                extensions[file.Extension].Add(
-                     string.Format("--{0} - ", file.Name), file.Length
-                );
-            }
-
+            );
+        }
+        else
+        {
+            extensions[file.Extension].Add(
+                 string.Format("--{0} - ", file.Name), file.Length
+            );
         }
     }
 }

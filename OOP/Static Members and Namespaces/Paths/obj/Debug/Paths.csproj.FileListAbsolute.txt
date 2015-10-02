@@ -1,7 +1,0 @@
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Paths\bin\Debug\Paths.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Paths\bin\Debug\Paths.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Paths\bin\Debug\Point3D.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Paths\bin\Debug\Point3D.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Paths\obj\Debug\Paths.csprojResolveAssemblyReference.cache
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Paths\obj\Debug\Paths.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Paths\obj\Debug\Paths.pdb

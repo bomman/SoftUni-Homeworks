@@ -1,18 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
-using System.IO.IsolatedStorage;
-using System.Text.RegularExpressions;
-using System.IO.Compression;
+
 class SlicingFile
 {
     const string sourceFile = "../../file.txt";
     const string destination = "../../";
 
-    public static void SplitFile(string inputFile, int parts, string path)
+    
+    static void Main()
+    {
+        Console.Write("Enter in how many parts do you want the file to be sliced: ");
+        int parts = int.Parse(Console.ReadLine());
+        SplitFile(parts);
+        Assemble(parts);
+    }
+
+    public static void SplitFile(int parts)
     {
         byte[] buffer = new byte[4096];
 
@@ -21,10 +24,10 @@ class SlicingFile
             int index = 1;
             while (input.Position < input.Length)
             {
-                
-                using (Stream output = File.Create(path + "\\" + index + ".txt"))
+
+                using (Stream output = File.Create(destination + "\\" + index + ".txt"))
                 {
-                   
+
                     int chunkBytesRead = 0;
                     while (chunkBytesRead < input.Length / parts)
                     {
@@ -37,7 +40,7 @@ class SlicingFile
                         chunkBytesRead += bytesRead;
                         output.Write(buffer, 0, bytesRead);
                     }
-                     
+
                 }
                 index++;
             }
@@ -70,15 +73,6 @@ class SlicingFile
             }
         }
     }
-    static void Main()
-    {
-        Console.Write("Enter in how many parts do you want the file to be sliced: ");
-        int parts = int.Parse(Console.ReadLine());
-        SplitFile(sourceFile, parts, destination);
-        Assemble(parts);
-    }
-
-
 
 
 }

@@ -1,5 +1,0 @@
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\ClassExercise\bin\Debug\ClassExercise.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\ClassExercise\bin\Debug\ClassExercise.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\ClassExercise\obj\Debug\ClassExercise.csprojResolveAssemblyReference.cache
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\ClassExercise\obj\Debug\ClassExercise.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\ClassExercise\obj\Debug\ClassExercise.pdb

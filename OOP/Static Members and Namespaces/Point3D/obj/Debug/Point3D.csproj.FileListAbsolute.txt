@@ -1,5 +1,0 @@
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Point3D\bin\Debug\Point3D.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Point3D\bin\Debug\Point3D.pdb
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Point3D\obj\Debug\Point3D.exe
-C:\Users\Simooo\Documents\Visual Studio 2013\Projects\OOP\Solution1\Point3D\obj\Debug\Point3D.pdb

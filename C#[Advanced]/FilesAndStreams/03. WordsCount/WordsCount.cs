@@ -6,23 +6,9 @@ using System.Text.RegularExpressions;
 
 class WordsCount
 {
-    private static List<string> WordsToMatch(StreamReader readerWords)
-    {
-        // Here I am filling the words that I need to check with the Regex in a List.
-        List<string> words = new List<string>();
-        string lineOfWords = readerWords.ReadLine();
-        while (lineOfWords != null) // taking the words in a List so it can easily be accessed.
-        {
-            string[] word = lineOfWords.Split(' ');
-            for (int i = 0; i < word.Length; i++)
-            {
-                words.Add(word[i]);
-            }
-            lineOfWords = readerWords.ReadLine();
-        }
-        return words;
-    }
+    // Write a program that reads a list of words from the file words.txt and finds how many times each of the words is contained in another file text.txt. Matching should be case-insensitive. Write the results in file results.txt. Sort the words by frequency in descending order. Use StreamReader in combination with StreamWriter.
 
+  
 
     static void Main()
     {
@@ -69,5 +55,22 @@ class WordsCount
 
         }
     }
+    private static List<string> WordsToMatch(StreamReader readerWords)
+    {
+        // Here I am filling the words that I need to check with the Regex in a List.
+        List<string> words = new List<string>();
+        string lineOfWords = readerWords.ReadLine();
+        while (lineOfWords != null) // taking the words in a List so it can easily be accessed.
+        {
+            string[] word = lineOfWords.Split(' ');
+            for (int i = 0; i < word.Length; i++)
+            {
+                words.Add(word[i]);
+            }
+            lineOfWords = readerWords.ReadLine();
+        }
+        return words;
+    }
+
 }
 
