@@ -59,13 +59,9 @@ class SlicingFile
             {
                 using (assembledFile)
                 {
-                    while (true)
+                    int bytesRead;
+                    while ((bytesRead = partOfFile.Read(buffer, 0, buffer.Length)) > 0)
                     {
-                        int bytesRead = partOfFile.Read(buffer, 0, buffer.Length);
-                        if (bytesRead == 0)
-                        {
-                            break;
-                        }
                         assembledFile.Write(buffer, 0, bytesRead);
                     }
 

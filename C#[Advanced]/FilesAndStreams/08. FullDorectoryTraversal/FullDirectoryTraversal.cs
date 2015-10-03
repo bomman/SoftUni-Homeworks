@@ -41,21 +41,14 @@ class FullDirectoryTraversal
 
     private static void DirectoriesTraversal(DirectoryInfo directorySelected, SortedDictionary<string, Dictionary<string, double>> extensions)
     {
-        DirectoryInfo[] subDirectories = directorySelected.GetDirectories();    
-        int subDirectoriesUsed = subDirectories.Length;
-
         foreach (var file in directorySelected.GetFiles())
         {                  
-            FileExtensionSorting(file, extensions);           
-            while (subDirectoriesUsed > 0)
-            {
-                foreach (var subDirectory in directorySelected.GetDirectories())
-                {                                        
-                        DirectoriesTraversal(subDirectory, extensions);
-                    subDirectoriesUsed--;
-                }
-            }
+            FileExtensionSorting(file, extensions);                     
+        }
 
+        foreach (var subDirectory in directorySelected.GetDirectories())
+        {
+            DirectoriesTraversal(subDirectory, extensions);         
         }
     }
 
